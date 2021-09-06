@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/M_R_LP/static/css/main.f0de141e.chunk.css",
+    "main.js": "/M_R_LP/static/js/main.d2001934.chunk.js",
+    "main.js.map": "/M_R_LP/static/js/main.d2001934.chunk.js.map",
+    "runtime-main.js": "/M_R_LP/static/js/runtime-main.eb6e319a.js",
+    "runtime-main.js.map": "/M_R_LP/static/js/runtime-main.eb6e319a.js.map",
+    "static/js/2.0d5a4e14.chunk.js": "/M_R_LP/static/js/2.0d5a4e14.chunk.js",
+    "static/js/2.0d5a4e14.chunk.js.map": "/M_R_LP/static/js/2.0d5a4e14.chunk.js.map",
+    "static/js/3.2b67df6e.chunk.js": "/M_R_LP/static/js/3.2b67df6e.chunk.js",
+    "static/js/3.2b67df6e.chunk.js.map": "/M_R_LP/static/js/3.2b67df6e.chunk.js.map",
+    "index.html": "/M_R_LP/index.html",
+    "static/css/main.f0de141e.chunk.css.map": "/M_R_LP/static/css/main.f0de141e.chunk.css.map",
+    "static/js/2.0d5a4e14.chunk.js.LICENSE.txt": "/M_R_LP/static/js/2.0d5a4e14.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/M_R_LP/static/media/Raleway-VariableFont_wght.3fefe681.ttf",
+    "static/media/f1.jpg": "/M_R_LP/static/media/f1.fb15b0a6.jpg",
+    "static/media/f2.jpg": "/M_R_LP/static/media/f2.5ad37755.jpg",
+    "static/media/f3.jpg": "/M_R_LP/static/media/f3.4f8a5ef5.jpg",
+    "static/media/f4.jpg": "/M_R_LP/static/media/f4.31f5f8e6.jpg",
+    "static/media/laptop-336373_1024.68e020df.jpg": "/M_R_LP/static/media/laptop-336373_1024.68e020df.jpg",
+    "static/media/meeting-1245776_1024.ceb34d65.jpg": "/M_R_LP/static/media/meeting-1245776_1024.ceb34d65.jpg",
+    "static/media/people-1979261_1024.7d5fec8e.jpg": "/M_R_LP/static/media/people-1979261_1024.7d5fec8e.jpg",
+    "static/media/reach.369e4053.jpg": "/M_R_LP/static/media/reach.369e4053.jpg",
+    "static/media/startup-593341_1024.166df4e1.jpg": "/M_R_LP/static/media/startup-593341_1024.166df4e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb6e319a.js",
+    "static/js/2.0d5a4e14.chunk.js",
+    "static/css/main.f0de141e.chunk.css",
+    "static/js/main.d2001934.chunk.js"
+  ]
+}
